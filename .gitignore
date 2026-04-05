@@ -19,7 +19,6 @@ venv/
 
 # Data
 *.parquet
-*.png
 *.jpg
 *.jpeg
 *.xlsx
