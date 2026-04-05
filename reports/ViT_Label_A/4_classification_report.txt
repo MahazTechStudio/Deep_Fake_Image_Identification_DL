@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+        Real       0.93      0.80      0.86       500
+      AI-Gen       0.83      0.94      0.88       500
+
+    accuracy                           0.87      1000
+   macro avg       0.88      0.87      0.87      1000
+weighted avg       0.88      0.87      0.87      1000

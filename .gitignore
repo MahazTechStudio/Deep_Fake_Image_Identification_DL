@@ -1,0 +1,26 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+
+# Reports and Figures (Optional to exclude, but keeping them for now as per your request)
+# reports/
+# figures/
+
+# Data
+*.parquet
+*.png
+*.jpg
+*.jpeg
+*.xlsx
+*.csv
