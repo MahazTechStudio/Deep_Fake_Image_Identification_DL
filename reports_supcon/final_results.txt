@@ -1,0 +1,6 @@
+Best Val Accuracy: 0.9183
+Test Accuracy: 0.9217
+Test F1: 0.9217
+Test Precision: 0.9217
+Test Recall: 0.9217
+Test Specificity: 0.9256
